@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+svg {
+  width: 20px;
+  height: 20px;
+}
+html,
+body,
+#app,
+.el-container,
+.el-menu {
+  height: 100%;
+}
